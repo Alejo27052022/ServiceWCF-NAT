@@ -1,0 +1,375 @@
+C:\Users\ediso\Desktop\Cliente\bin\Cliente.dll.config
+C:\Users\ediso\Desktop\Cliente\bin\Cliente.dll
+C:\Users\ediso\Desktop\Cliente\bin\Cliente.pdb
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\csc.exe
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\csc.exe.config
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\csc.rsp
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\csi.exe
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\csi.exe.config
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\csi.rsp
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.AppContext.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Console.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.IO.Compression.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Net.Http.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.ValueTuple.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\vbc.exe
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\vbc.exe.config
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\vbc.rsp
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\VBCSCompiler.exe
+C:\Users\ediso\Desktop\Cliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ediso\Desktop\Cliente\bin\Antlr3.Runtime.dll
+C:\Users\ediso\Desktop\Cliente\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ediso\Desktop\Cliente\bin\Newtonsoft.Json.dll
+C:\Users\ediso\Desktop\Cliente\bin\System.Web.Optimization.dll
+C:\Users\ediso\Desktop\Cliente\bin\WebGrease.dll
+C:\Users\ediso\Desktop\Cliente\bin\System.Web.Optimization.xml
+C:\Users\ediso\Desktop\Cliente\bin\Newtonsoft.Json.xml
+C:\Users\ediso\Desktop\Cliente\bin\Antlr3.Runtime.pdb
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ediso\Desktop\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ediso\Desktop\Cliente\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ediso\Desktop\Cliente\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\ediso\Desktop\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\ediso\Desktop\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ediso\Desktop\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\ediso\Desktop\Cliente\obj\Debug\Cliente.dll
+C:\Users\ediso\Desktop\Cliente\obj\Debug\Cliente.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Cliente.dll.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Cliente.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Cliente.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\csc.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\csc.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\csc.rsp
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\csi.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\csi.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\csi.rsp
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.AppContext.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Console.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.IO.Compression.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Net.Http.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.ValueTuple.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\vbc.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\vbc.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\vbc.rsp
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\VBCSCompiler.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Antlr3.Runtime.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Newtonsoft.Json.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\System.Web.Optimization.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\WebGrease.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\System.Web.Optimization.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Newtonsoft.Json.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Antlr3.Runtime.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\es\System.Web.Optimization.resources.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\obj\Debug\Cliente.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\Cliente\obj\Debug\Cliente.pdb
+C:\Stalin_Deber\WCF\Cliente\bin\Cliente.dll.config
+C:\Stalin_Deber\WCF\Cliente\bin\Cliente.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Cliente.pdb
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\csc.exe
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\csc.exe.config
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\csc.rsp
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\csi.exe
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\csi.exe.config
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\csi.rsp
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.AppContext.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Console.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Globalization.Calendars.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.IO.Compression.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.IO.FileSystem.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Net.Http.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Net.Sockets.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.ValueTuple.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Xml.XPath.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\vbc.exe
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\vbc.exe.config
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\vbc.rsp
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\VBCSCompiler.exe
+C:\Stalin_Deber\WCF\Cliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Stalin_Deber\WCF\Cliente\bin\Antlr3.Runtime.dll
+C:\Stalin_Deber\WCF\Cliente\bin\AspNet.ScriptManager.jQuery.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Stalin_Deber\WCF\Cliente\bin\Newtonsoft.Json.dll
+C:\Stalin_Deber\WCF\Cliente\bin\System.Web.Optimization.dll
+C:\Stalin_Deber\WCF\Cliente\bin\WebGrease.dll
+C:\Stalin_Deber\WCF\Cliente\bin\System.Web.Optimization.xml
+C:\Stalin_Deber\WCF\Cliente\bin\Newtonsoft.Json.xml
+C:\Stalin_Deber\WCF\Cliente\bin\Antlr3.Runtime.pdb
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Stalin_Deber\WCF\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Stalin_Deber\WCF\Cliente\bin\es\System.Web.Optimization.resources.dll
+C:\Stalin_Deber\WCF\Cliente\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Stalin_Deber\WCF\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Stalin_Deber\WCF\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Stalin_Deber\WCF\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Stalin_Deber\WCF\Cliente\obj\Debug\Cliente.dll
+C:\Stalin_Deber\WCF\Cliente\obj\Debug\Cliente.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Cliente.dll.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Cliente.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Cliente.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\csc.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\csc.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\csc.rsp
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\csi.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\csi.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\csi.rsp
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.AppContext.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Console.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.IO.Compression.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Net.Http.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Net.Sockets.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.ValueTuple.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Xml.XPath.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\vbc.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\vbc.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\vbc.rsp
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\VBCSCompiler.exe
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Antlr3.Runtime.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Newtonsoft.Json.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\System.Web.Optimization.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\WebGrease.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\System.Web.Optimization.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Newtonsoft.Json.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Antlr3.Runtime.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\es\System.Web.Optimization.resources.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\obj\Debug\Cliente.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\Cliente\obj\Debug\Cliente.pdb
+C:\Stalin_Deber\WCF1\Cliente\bin\Cliente.dll.config
+C:\Stalin_Deber\WCF1\Cliente\bin\Cliente.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Cliente.pdb
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\csc.exe
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\csc.exe.config
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\csc.rsp
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\csi.exe
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\csi.exe.config
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\csi.rsp
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.AppContext.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Collections.Immutable.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Console.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Globalization.Calendars.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.IO.Compression.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.IO.FileSystem.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Net.Http.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Net.Sockets.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Reflection.Metadata.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.ValueTuple.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Xml.XPath.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\vbc.exe
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\vbc.exe.config
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\vbc.rsp
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\VBCSCompiler.exe
+C:\Stalin_Deber\WCF1\Cliente\bin\roslyn\VBCSCompiler.exe.config
+C:\Stalin_Deber\WCF1\Cliente\bin\Antlr3.Runtime.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\AspNet.ScriptManager.jQuery.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.Web.Infrastructure.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\Newtonsoft.Json.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\System.Web.Optimization.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\WebGrease.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\System.Web.Optimization.xml
+C:\Stalin_Deber\WCF1\Cliente\bin\Newtonsoft.Json.xml
+C:\Stalin_Deber\WCF1\Cliente\bin\Antlr3.Runtime.pdb
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Stalin_Deber\WCF1\Cliente\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Stalin_Deber\WCF1\Cliente\bin\es\System.Web.Optimization.resources.dll
+C:\Stalin_Deber\WCF1\Cliente\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Stalin_Deber\WCF1\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Stalin_Deber\WCF1\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Stalin_Deber\WCF1\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Stalin_Deber\WCF1\Cliente\obj\Debug\Cliente.dll
+C:\Stalin_Deber\WCF1\Cliente\obj\Debug\Cliente.pdb

@@ -1,0 +1,60 @@
+C:\Users\ediso\Desktop\ServicioWCF\obj\Debug\ServicioWCF.csproj.AssemblyReference.cache
+C:\Users\ediso\Desktop\ServicioWCF\obj\Debug\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\ediso\Desktop\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\ediso\Desktop\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\ediso\Desktop\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\ediso\Desktop\ServicioWCF\bin\EntityFramework.dll
+C:\Users\ediso\Desktop\ServicioWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\ediso\Desktop\ServicioWCF\bin\EntityFramework.xml
+C:\Users\ediso\Desktop\ServicioWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\ediso\Desktop\ServicioWCF\obj\Debug\ServicioWCF.csproj.CopyComplete
+C:\Users\ediso\Desktop\ServicioWCF\obj\Debug\ServicioWCF.dll
+C:\Users\ediso\Desktop\ServicioWCF\obj\Debug\ServicioWCF.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\bin\EntityFramework.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\bin\EntityFramework.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\obj\Debug\ServicioWCF.csproj.AssemblyReference.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\obj\Debug\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\obj\Debug\ServicioWCF.csproj.CopyComplete
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\obj\Debug\ServicioWCF.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF\ServicioWCF\obj\Debug\ServicioWCF.pdb
+C:\Stalin_Deber\WCF\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Stalin_Deber\WCF\ServicioWCF\bin\ServicioWCF.dll
+C:\Stalin_Deber\WCF\ServicioWCF\bin\ServicioWCF.pdb
+C:\Stalin_Deber\WCF\ServicioWCF\bin\EntityFramework.dll
+C:\Stalin_Deber\WCF\ServicioWCF\bin\EntityFramework.SqlServer.dll
+C:\Stalin_Deber\WCF\ServicioWCF\bin\EntityFramework.xml
+C:\Stalin_Deber\WCF\ServicioWCF\bin\EntityFramework.SqlServer.xml
+C:\Stalin_Deber\WCF\ServicioWCF\obj\Debug\ServicioWCF.csproj.AssemblyReference.cache
+C:\Stalin_Deber\WCF\ServicioWCF\obj\Debug\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Stalin_Deber\WCF\ServicioWCF\obj\Debug\ServicioWCF.csproj.CopyComplete
+C:\Stalin_Deber\WCF\ServicioWCF\obj\Debug\ServicioWCF.dll
+C:\Stalin_Deber\WCF\ServicioWCF\obj\Debug\ServicioWCF.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\obj\Debug\ServicioWCF.csproj.AssemblyReference.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\obj\Debug\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\obj\Debug\ServicioWCF.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\obj\Debug\ServicioWCF.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\bin\ServicioWCF.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\bin\ServicioWCF.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\bin\EntityFramework.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\bin\EntityFramework.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\WCF1\ServicioWCF\obj\Debug\ServicioWCF.csproj.CopyComplete
+C:\Stalin_Deber\WCF1\ServicioWCF\bin\ServicioWCF.dll.config
+C:\Stalin_Deber\WCF1\ServicioWCF\bin\ServicioWCF.dll
+C:\Stalin_Deber\WCF1\ServicioWCF\bin\ServicioWCF.pdb
+C:\Stalin_Deber\WCF1\ServicioWCF\bin\EntityFramework.dll
+C:\Stalin_Deber\WCF1\ServicioWCF\bin\EntityFramework.SqlServer.dll
+C:\Stalin_Deber\WCF1\ServicioWCF\bin\EntityFramework.xml
+C:\Stalin_Deber\WCF1\ServicioWCF\bin\EntityFramework.SqlServer.xml
+C:\Stalin_Deber\WCF1\ServicioWCF\obj\Debug\ServicioWCF.csproj.AssemblyReference.cache
+C:\Stalin_Deber\WCF1\ServicioWCF\obj\Debug\ServicioWCF.csproj.CoreCompileInputs.cache
+C:\Stalin_Deber\WCF1\ServicioWCF\obj\Debug\ServicioWCF.csproj.CopyComplete
+C:\Stalin_Deber\WCF1\ServicioWCF\obj\Debug\ServicioWCF.dll
+C:\Stalin_Deber\WCF1\ServicioWCF\obj\Debug\ServicioWCF.pdb
